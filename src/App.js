@@ -1,6 +1,10 @@
 import React from "react";
-import {Form} from "./components/Form";
 
+// components
+import { Form } from "./components/Form";
+import { TodoList } from "./components/TodoList";
+
+// css files
 import "./App.css";
 
 function App() {
@@ -11,6 +15,7 @@ function App() {
       </header>
 
       <Form />
+      <TodoList />
     </div>
   );
 }
