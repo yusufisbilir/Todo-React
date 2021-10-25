@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# ToDo app with React.js
+
+Demo: todo-with-react.surge.sh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
